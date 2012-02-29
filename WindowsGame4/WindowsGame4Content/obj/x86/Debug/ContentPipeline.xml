@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ball.png</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vost3550\Documents\Visual Studio 2010\Projects\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\ball.xnb</Output>
+      <Time>2012-02-13T08:20:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>brick.png</Source>
+      <Name>brick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vost3550\Documents\Visual Studio 2010\Projects\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\brick.xnb</Output>
+      <Time>2012-02-13T08:20:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>soundtrack.wma</Source>
+      <Name>soundtrack</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vost3550\Documents\Visual Studio 2010\Projects\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\soundtrack.xnb</Output>
+      <Extra>C:\Users\vost3550\Documents\Visual Studio 2010\Projects\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\soundtrack.wma</Extra>
+      <Time>2012-02-13T08:20:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>kong.wav</Source>
+      <Name>kong</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vost3550\Documents\Visual Studio 2010\Projects\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\kong.xnb</Output>
+      <Time>2012-02-13T08:20:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vost3550\Documents\Visual Studio 2010\Projects\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2012-02-26T21:43:24.9478679-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bar.png</Source>
+      <Name>bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vost3550\Documents\Visual Studio 2010\Projects\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\bar.xnb</Output>
+      <Time>2012-02-28T19:56:45.4608927-05:00</Time>
+    </Item>
+    <Item>
+      <Source>53576_newgrounds_guitar.wav</Source>
+      <Name>53576_newgrounds_guitar</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vost3550\Documents\Visual Studio 2010\Projects\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\53576_newgrounds_guitar.xnb</Output>
+      <Time>2012-02-28T21:44:49.3071653-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\vost3550\Documents\Visual Studio 2010\Projects\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\vost3550\Documents\Visual Studio 2010\Projects\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\vost3550\Documents\Visual Studio 2010\Projects\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\vost3550\Documents\Visual Studio 2010\Projects\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-08T10:44:31.9431066-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

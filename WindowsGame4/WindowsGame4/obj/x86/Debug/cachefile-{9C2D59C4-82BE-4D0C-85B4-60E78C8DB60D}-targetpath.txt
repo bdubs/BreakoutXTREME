@@ -1,0 +1,8 @@
+Content\ball.xnb
+Content\brick.xnb
+Content\soundtrack.xnb
+Content\soundtrack.wma
+Content\kong.xnb
+Content\SpriteFont1.xnb
+Content\bar.xnb
+Content\53576_newgrounds_guitar.xnb
